@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akashidonn
 - 👀 I’m interested in networking
 - 🌱 I’m currently learning hacking
-- 💞️ I’m looking for mentorship
-- 📫 How to reach me leartdustin@gmail.com
+- 💞️ I’m looking for
+- 📫 How to reach me 
 
 <!---
 akashidonn/akashidonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
